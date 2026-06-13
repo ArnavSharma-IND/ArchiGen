@@ -1,0 +1,6 @@
+{
+  "name": "Requirements-to-Architecture Converter",
+  "description": "Convert software requirements, SRS, PRDs, and user briefs into high-level architecture documents, database schemas, API contracts, sequence diagrams, and deployment configurations with exhaustive AI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
